@@ -1,6 +1,8 @@
 ## Why hello there! I am Ishmael Kwayisi!  👋
 
-- I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
+I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
+
+Fun Fact about me: I have been a gamer (gamer name: spiroguy24) since I was 3 years old!
 
 <!--
 **IshKwayisi1232004/IshKwayisi1232004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
