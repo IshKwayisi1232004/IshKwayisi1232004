@@ -1,4 +1,6 @@
-## Hi there 👋
+## Why hello there! I am Ishmael Kwayisi!  👋
+
+- I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
 
 <!--
 **IshKwayisi1232004/IshKwayisi1232004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
