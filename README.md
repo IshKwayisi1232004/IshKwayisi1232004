@@ -4,9 +4,9 @@ I am an aspiring Software Engineering student passionate about using various Com
 
 - Fun Fact about me: I have been a gamer (gamer name: spiroguy24) since I was 3 years old!
 
-  ## Connect With Me
-  - https://www.linkedin.com/in/ishmael-kwayisi-48b5b6294/
-  - https://backloggd.com/u/spiroguy24/
+## Connect With Me
+- https://www.linkedin.com/in/ishmael-kwayisi-48b5b6294/
+- https://backloggd.com/u/spiroguy24/
 
 <!--
 **IshKwayisi1232004/IshKwayisi1232004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
