@@ -2,6 +2,8 @@
 
 I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
 
+- Currently learning: Full Stack Development, DSA, and Operating Platforms
+- Top 3 Programming Languages: C++, Java, C#
 - Fun Fact about me: I have been a gamer (gamer name: spiroguy24) since I was 3 years old!
 
 ## Connect With Me
