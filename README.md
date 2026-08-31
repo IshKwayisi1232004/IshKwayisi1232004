@@ -10,7 +10,7 @@ I am an aspiring Software Engineering student passionate about using various Com
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmael-kwayisi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=about-dot-me&logoColor=white)]([https://au1rey.github.io](https://ishmael-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ishmael-portfolio.vercel.app/)
 
 ## Languages
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
