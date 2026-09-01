@@ -1,18 +1,21 @@
 # Why hello there! I am Ishmael Kwayisi!  👋
 
+## ⚡About Me
+
 I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
 
  ☆ Online Graduate **Computer Science** student at Georgia Institute of Technology
  
- ☆ I build  immersive and 
+ ☆ I build immersive, interactive experiences to inspire the spirit of others
 
  ☆ Reach me at: spyrorocks324@gmail.com 
 
-## Connect With Me
+## 🤝Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ishmael-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmael-kwayisi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ishmael-portfolio.vercel.app/)
 
-## Languages
+
+## 🖥️ Languages
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" />
@@ -25,8 +28,7 @@ I am an aspiring Software Engineering student passionate about using various Com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </div>
 
-# **Frameworks & Tools**
-
+# 🔨 **Frameworks & Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" height="40"/>      
@@ -52,14 +54,37 @@ I am an aspiring Software Engineering student passionate about using various Com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
 
+## Project Showcase
+
+### 🐲 Soar: A Dragon Locomotion Prototype
+- Developed a gameplay programming prototype implementing 6 state-driven locomotion states—Grounded, Taking Off, Flying, Gliding, Diving, and Landing—with custom C++ movement logic.
+- Engineered momentum-preserving transitions from ground movement into flight and implemented movement speeds of 250, 500, and 900 units/sec for walking, running, and charge movement.
+- Integrated Enhanced Input and Character Movement systems for keyboard/controller controls while debugging movement-state transitions, input mapping, pitch control, and aerial momentum.
+- [Repository Link](https://github.com/IshKwayisi1232004/Dragon-Locomotion-Prototype)
+
+### 📺 AniVerse
+- Currently developing a full stack application with Angular, Spring Boot, and PostgreSQL to help users track anime they're watching or are interested in.
+- [Repository Link](https://github.com/IshKwayisi1232004/Anime_Website)
+
+### 🦝 Roamie
+- Developed a full-stack web application using React, Node.js, Express, and PostgreSQL
+- Implemented defense-in-depth security model including JWT authentication, input validation (Zod), rate limiting, account lockouts, and SQL injection detection with logging and automated IP/user blocking
+- Engineered backend systems including geolocation validation, anti-spoofing logic, and cooldown mechanisms to ensure fair gameplay
+- [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider)
+
+### 🎮 Crypt Raider
+- Developed a first-person puzzle-adventure prototype implementing gameplay systems for line-trace interaction, item pickups, pressure plates, dynamic lighting, and player movement. 
+- Utilized C++ delegates and Unreal Engine actor components to create event-driven, modular interactions between gameplay systems and environmental objects. 
+- Integrated Unreal Engine's Enhanced Input system and collision/interaction functionality to create a reusable 
+foundation for first-person exploration and environmental puzzle mechanics.
+- [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider)
+
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshKwayisi1232004&background=45%2C3800EB%2CB932EB&border=FFF100&currStreakNum=FFA700&sideNums=FFEB00&currStreakLabel=FEFF00&sideLabels=FEFF00&excludeDaysLabel=FEFF00&dates=FEFF00)](https://git.io/streak-stats)
 
 ### ✍️ Favorite Quote
 > ### "The sky's the limit!" - Spyro The Dragon
-
-
-          
+   
 </div>
 <!--
 **IshKwayisi1232004/IshKwayisi1232004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
