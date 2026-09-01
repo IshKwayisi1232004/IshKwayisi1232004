@@ -54,7 +54,7 @@ I am an aspiring Software Engineering student passionate about using various Com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
 
-## Project Showcase
+## Project Showcase (Top 4)
 
 ### 🐲 Soar: A Dragon Locomotion Prototype
 - Developed a gameplay programming prototype implementing 6 state-driven locomotion states—Grounded, Taking Off, Flying, Gliding, Diving, and Landing—with custom C++ movement logic.
