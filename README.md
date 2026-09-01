@@ -51,6 +51,14 @@ I am an aspiring Software Engineering student passionate about using various Com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
+
+# 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=IshKwayisi1232004&background=45%2C3800EB%2CB932EB&border=FFF100&currStreakNum=FFA700&sideNums=FFEB00&currStreakLabel=FEFF00&sideLabels=FEFF00&excludeDaysLabel=FEFF00&dates=FEFF00)](https://git.io/streak-stats)
+
+### ✍️ Favorite Quote
+> ### "The sky's the limit!" - Spyro The Dragon
+
+
           
 </div>
 <!--
