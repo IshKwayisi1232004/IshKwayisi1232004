@@ -13,7 +13,7 @@ I am an aspiring Software Engineering student passionate about using various Com
 ## 🤝Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ishmael-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmael-kwayisi/)
-[![YouTube](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/@ishthedragcoothoggamer9182)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ishthedragcoothoggamer9182)
 - Please note that my portfolio development is progress
 
 
