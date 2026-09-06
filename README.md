@@ -72,7 +72,7 @@ I am an aspiring Software Engineering student passionate about using various Com
 - Developed a full-stack web application using React, Node.js, Express, and PostgreSQL
 - Implemented defense-in-depth security model including JWT authentication, input validation (Zod), rate limiting, account lockouts, and SQL injection detection with logging and automated IP/user blocking
 - Engineered backend systems including geolocation validation, anti-spoofing logic, and cooldown mechanisms to ensure fair gameplay
-- [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider)
+- [Repository Link](https://github.com/Paymvi/Capstone_Project)
 
 ### 🎮 Crypt Raider
 - Developed a first-person puzzle-adventure prototype implementing gameplay systems for line-trace interaction, item pickups, pressure plates, dynamic lighting, and player movement. 
