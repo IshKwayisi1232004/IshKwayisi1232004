@@ -56,16 +56,15 @@ I am an aspiring Software Engineering student passionate about using various Com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
 
-## Project Showcase (Top 4)
-
-### 🐲 Soar: A Dragon Locomotion Prototype
-- Developed a gameplay programming prototype implementing 6 state-driven locomotion states—Grounded, Taking Off, Flying, Gliding, Diving, and Landing—with custom C++ movement logic.
-- Engineered momentum-preserving transitions from ground movement into flight and implemented movement speeds of 250, 500, and 900 units/sec for walking, running, and charge movement.
-- Integrated Enhanced Input and Character Movement systems for keyboard/controller controls while debugging movement-state transitions, input mapping, pitch control, and aerial momentum.
-- [Repository Link](https://github.com/IshKwayisi1232004/Dragon-Locomotion-Prototype)
+## Project Showcase (Full-Stack)
 
 ### 📺 AniVerse
-- Currently developing a full stack application with Angular, Spring Boot, and PostgreSQL to help users track anime they're watching or are interested in.
+- Engineered a full-stack anime discovery platform using Angular and Spring Boot, building responsive frontend components and user 
+flows for searching, filtering, browsing, and managing personalized anime ratings.
+- Integrated the Jikan REST API to replace static mock data with dynamic anime content, creating a scalable data flow between external 
+services, backend APIs, and the Angular frontend.
+- Designed RESTful backend services and PostgreSQL data relationships to persist user accounts, anime ratings, and personalized data, 
+establishing the foundation for reliable user-specific experiences.
 - [Repository Link](https://github.com/IshKwayisi1232004/Anime_Website)
 
 ### 🦝 Roamie
@@ -74,12 +73,32 @@ I am an aspiring Software Engineering student passionate about using various Com
 - Engineered backend systems including geolocation validation, anti-spoofing logic, and cooldown mechanisms to ensure fair gameplay
 - [Repository Link](https://github.com/Paymvi/Capstone_Project)
 
+### ♟️ ChessPal
+- Engineered a real-time chess analysis platform integrating a C++ Stockfish engine with a TypeScript/React frontend through a Node.js/Express backend, enabling interactive AI-powered gameplay and position analysis.
+- Built a hybrid chess-analysis pipeline that orchestrated Stockfish depth-20 evaluation with GPT-4o-mini explanations, transforming engine-generated moves into structured, tactical guidance for players.
+- Developed asynchronous API services and frontend integration to process FEN positions, translate UCI engine output into structured move data and SAN notation, and deliver responsive AI analysis with error handling.
+- [Repository Link](https://github.com/Paymvi/ChessPal)
+
+## Project Showcase (Game Development)
+
+### 🐲 Soar: A Dragon Locomotion Prototype
+- Developed a gameplay programming prototype implementing 6 state-driven locomotion states—Grounded, Taking Off, Flying, Gliding, Diving, and Landing—with custom C++ movement logic.
+- Engineered momentum-preserving transitions from ground movement into flight and implemented movement speeds of 250, 500, and 900 units/sec for walking, running, and charge movement.
+- Integrated Enhanced Input and Character Movement systems for keyboard/controller controls while debugging movement-state transitions, input mapping, pitch control, and aerial momentum.
+- [Repository Link](https://github.com/IshKwayisi1232004/Dragon-Locomotion-Prototype)
+
 ### 🎮 Crypt Raider
 - Developed a first-person puzzle-adventure prototype implementing gameplay systems for line-trace interaction, item pickups, pressure plates, dynamic lighting, and player movement. 
 - Utilized C++ delegates and Unreal Engine actor components to create event-driven, modular interactions between gameplay systems and environmental objects. 
 - Integrated Unreal Engine's Enhanced Input system and collision/interaction functionality to create a reusable 
 foundation for first-person exploration and environmental puzzle mechanics.
 - [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider)
+
+### ⚔️ Project-Not-Zelda
+- Developed and shipped a 2D action-adventure game to itch.io using Unity and C#, delivering player movement, combat, enemy interactions, health, game states, and progression systems in a complete playable experience.
+- Designed gameplay encounters and level layouts around exploration, combat, and environmental progression, iterating on player flow and difficulty to create a cohesive gameplay experience.
+- Applied component-based C# scripting to separate player, enemy, health, and game-state systems, making gameplay logic independently manageable and easier to iterate during development.
+- [Repository Link](https://github.com/IshKwayisi1232004/Project-Not-Zelda-it145)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=IshKwayisi1232004&background=45%2C3800EB%2CB932EB&border=FFF100&currStreakNum=FFA700&sideNums=FFEB00&currStreakLabel=FEFF00&sideLabels=FEFF00&excludeDaysLabel=FEFF00&dates=FEFF00)](https://git.io/streak-stats)
