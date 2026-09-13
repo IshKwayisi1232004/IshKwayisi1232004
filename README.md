@@ -92,7 +92,7 @@ establishing the foundation for reliable user-specific experiences.
 - Utilized C++ delegates and Unreal Engine actor components to create event-driven, modular interactions between gameplay systems and environmental objects. 
 - Integrated Unreal Engine's Enhanced Input system and collision/interaction functionality to create a reusable 
 foundation for first-person exploration and environmental puzzle mechanics.
-- [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider)
+- [Repository Link](https://github.com/IshKwayisi1232004/CryptRaider_UE5)
 
 ### ⚔️ Project-Not-Zelda
 - Developed and shipped a 2D action-adventure game to itch.io using Unity and C#, delivering player movement, combat, enemy interactions, health, game states, and progression systems in a complete playable experience.
