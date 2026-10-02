@@ -1,14 +1,11 @@
 # Why hello there! I am Ishmael Kwayisi!  👋
 
-## ⚡About Me
+<h1 align="center">⚡ Building Immersive Experiences to Inspire Others</h1>
+<p align="center"> Online Master's Student @ Georgia Tech | Computer Science Alumni @ SNHU | Minor in Applied Mathematics | IEEE Young Professional</p>
+<p>I'm a Master's student at Georgia Tech studying Computer Science with a concentration in Human-Computer Interaction. I build full-stack applications and video game demos that solve complex problems and strive for innovation — from deploying video translation pipelines serving 1,200+ students, developing a gameplay mechanic involving a momentum-based locomotion system.</p>
+<p>I’m currently seeking an internship or entry-level role where I can make meaningful contributions, learn from industry professionals, and help build technology that makes a positive impact on society. In particular, I'm very interested in exploring opportunities related to Software Engineering, Game Engineering/Programming and Full-Stack Development.</p>
 
-I am an aspiring Software Engineering student passionate about using various Computer Science concepts to develop/deliver meaningful projects.
-
- ☆ Online Graduate **Computer Science** student at Georgia Institute of Technology
- 
- ☆ I build immersive, interactive experiences to inspire the spirit of others
-
- ☆ Reach me at: spyrorocks324@gmail.com 
+<p align="center">Feel free to explore my GitHub page!</p>
 
 ## 🤝Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ishmael-portfolio.vercel.app/)
